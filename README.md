@@ -28,6 +28,7 @@ avis_deterioration.csv
 
 collisions_routieres.csv
 
+Elles sont également disponible dans le fichier DATA.zip (dernière consultation le 26 avril 2021)
 
 ### Étapes d'exécution du code: ###
 

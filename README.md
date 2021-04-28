@@ -34,10 +34,17 @@ collisions_routieres.csv
 Avec Anaonda:
 
 1 - installer Anaconda (https://www.anaconda.com/products/individual)
+
 2 - s'assurer qu'Anaconda est à jour
+
 3 - Créer un dossier pour le projet
+
 4 - déposer le ficher .ipynb dans le dossier
+
 5 - déposer tous les fichers .csv dans le dossier (Voir Données plus haut)
+
 6 - ouvrir Anaconda et exécuter Jupyter Notebook
+
 7 - ouvrir le dossier du projet et sélectionner le fichier .ipynb
+
 8 - executer toutes les cellules du Notebook en cliquant sur le bouton "run"
